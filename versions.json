@@ -1,0 +1,14 @@
+{
+  "launcher": "1.0",
+  "updater": "1.0",
+  "tools": [
+    { 
+      "exe": "API_Manager.exe", 
+      "version": "1.0" 
+    },
+    { 
+      "exe": "Toolreview.exe", 
+      "version": "1.0" 
+    }
+  ]
+}
