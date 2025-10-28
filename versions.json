@@ -2,13 +2,23 @@
   "launcher": "1.0",
   "updater": "1.0",
   "tools": [
-    { 
-      "exe": "API_Manager.exe", 
-      "version": "1.0" 
+    {
+      "name": "Tool Quản lý API",
+      "exe": "API_Manager.exe",
+      "icon": "api_icon.png",
+      "version": "1.2"
     },
-    { 
-      "exe": "Toolreview.exe", 
-      "version": "1.0" 
+    {
+      "name": "Tool Làm Review",
+      "exe": "ToolReview.exe",
+      "icon": "review_icon.png",
+      "version": "1.0"
+    },
+    {
+      "name": "App Mới Của Bạn",
+      "exe": "AppMoi.exe",
+      "icon": "app_moi.png",
+      "version": "1.0"
     }
   ]
 }
