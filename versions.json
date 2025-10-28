@@ -13,7 +13,7 @@
       "exe": "API_ADMIN.exe", 
       "icon": "admin_icon.png",  
       "version": "1.0",
-      "url": "https://github.com/Vuongmuas/VuongToolDev-Updates/releases/download/v1.0-api/API_ADMIN.exe", 
+      "url": "https://github.com/Vuongmuas/VuongToolDev-Updates/releases/download/v1.0-admin/API_ADMIN.exe", 
       "icon_url": "https://raw.githubusercontent.com/Vuongmuas/VuongToolDev-Updates/main/icons/admin_icon.png" 
     },
     {
@@ -26,5 +26,6 @@
     }
   ]
 }
+
 
 
