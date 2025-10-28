@@ -2,10 +2,14 @@
   "launcher": {
     "version": "1.1",
     "url": "https://github.com/Vuongmuas/VuongToolDev-Updates/releases/download/v1.0-vlauncher/Vlauncher.exe" 
+    "notes": "fix lỗi Tiêu đề Ghi khi xuất prompt",
+      "force_update": true
   },
   "updater": {
     "version": "1.1",
     "url": "https://github.com/Vuongmuas/VuongToolDev-Updates/releases/download/v1.0-vlauncher/updater.exe" 
+    "notes": "fix lỗi Tiêu đề Ghi khi xuất prompt",
+      "force_update": true
   },
   "tools": [
     {
@@ -14,7 +18,9 @@
       "icon": "admin_icon.png",  
       "version": "1.0",
       "url": "https://github.com/Vuongmuas/VuongToolDev-Updates/releases/download/v1.1-admin/API_ADMIN.exe", 
-      "icon_url": "https://raw.githubusercontent.com/Vuongmuas/VuongToolDev-Updates/main/icons/admin_icon.png" 
+      "icon_url": "https://raw.githubusercontent.com/Vuongmuas/VuongToolDev-Updates/main/icons/admin_icon.png",
+      "notes": "fix lỗi Tiêu đề Ghi khi xuất prompt",
+      "force_update": true
     },
     {
       "name": "Tool Làm Review", 
@@ -22,10 +28,13 @@
       "icon": "toolreview.png", 
       "version": "1.0", 
       "url": "https://github.com/Vuongmuas/VuongToolDev-Updates/releases/download/v1.1-review/ToolReview.exe", 
-      "icon_url": "https://github.com/Vuongmuas/VuongToolDev-Updates/releases/download/v1.1-review/Toolreview.exe" 
+      "icon_url": "https://github.com/Vuongmuas/VuongToolDev-Updates/releases/download/v1.1-review/Toolreview.exe",
+      "notes": "fix lỗi Tiêu đề Ghi khi xuất prompt",
+      "force_update": true
     }
   ]
 }
+
 
 
 
